@@ -1,0 +1,26 @@
+{
+    "name": "crypt",
+    "version": "1.0.0",
+    "description": "cli tool for encrypting strings.",
+    "main": "src/index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+      "encrypt"
+    ],
+    "author": "wanix1988 <wanix1988@gmail.com>",
+    "license": "ISC",
+    "bin": {
+      "adb-wifi": "cli.js"
+    },
+    "dependencies": {
+      "@inquirer/prompts": "^4.3.0",
+      "crypto-js": "^4.2.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/wanix1988/DecEnc.git"
+    }
+  }
+  
