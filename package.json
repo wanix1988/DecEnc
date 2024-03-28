@@ -1,5 +1,6 @@
 {
-    "name": "crypt",
+    "name": "decenc",
+    "title": "DecEnc",
     "version": "1.0.0",
     "description": "cli tool for encrypting strings.",
     "main": "src/index.js",
